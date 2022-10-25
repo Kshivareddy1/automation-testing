@@ -1,0 +1,5 @@
+describe('empty spec', () => {
+  it('passes', () => {
+    cy.visit('https://www.flipkart.com/mobile-accessories/cases-and-covers/pr?sid=tyy%2C4mr%2Cq2u&offer=nb%3Amp%3A0826d63c30&hpid=iTo3zx--JtirYkkohfXi3ap7_Hsxr70nj65vMAAFKlc%3D&ctx=eyJjYXJkQ29udGV4dCI6eyJhdHRyaWJ1dGVzIjp7InZhbHVlQ2FsbG91dCI6eyJtdWx0aVZhbHVlZEF0dHJpYnV0ZSI6eyJrZXkiOiJ2YWx1ZUNhbGxvdXQiLCJpbmZlcmVuY2VUeXBlIjoiVkFMVUVfQ0FMTE9VVCIsInZhbHVlcyI6WyJGcm9tIOKCuTE3OSJdLCJ2YWx1ZVR5cGUiOiJNVUxUSV9WQUxVRUQifX0sImhlcm9QaWQiOnsic2luZ2xlVmFsdWVBdHRyaWJ1dGUiOnsia2V5IjoiaGVyb1BpZCIsImluZmVyZW5jZVR5cGUiOiJQSUQiLCJ2YWx1ZSI6IkFDQ0dBNkhHWUFHWVBYREUiLCJ2YWx1ZVR5cGUiOiJTSU5HTEVfVkFMVUVEIn19LCJ0aXRsZSI6eyJtdWx0aVZhbHVlZEF0dHJpYnV0ZSI6eyJrZXkiOiJ0aXRsZSIsImluZmVyZW5jZVR5cGUiOiJUSVRMRSIsInZhbHVlcyI6WyJHbGFzc2JhY2siXSwidmFsdWVUeXBlIjoiTVVMVElfVkFMVUVEIn19fX19&fm=neo%2Fmerchandising&iid=M_168e4d19-fb9c-4e59-b973-0b584fa09099_1.J8QR0ZRC1UQ2&ppt=hp&ppn=homepage&ssid=babztxhzrk0000001664981541756&otracker=clp_omu_Electronics%2BGadgets_1_1.dealCard.OMU_offers-store_offers-store_J8QR0ZRC1UQ2_1&otracker1=clp_omu_PINNED_neo%2Fmerchandising_Electronics%2BGadgets_NA_dealCard_cc_1_NA_view-all_1&cid=J8QR0ZRC1UQ2')
+  })
+})
