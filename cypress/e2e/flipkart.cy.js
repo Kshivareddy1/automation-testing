@@ -12,7 +12,7 @@ describe('Flipcart', () => {
          cy.get('input[name="q"]').type("Iphone")
 
          cy.contains('iphone 13').click()
-         cy.contains('iphone 13').click()
+         cy.contains('iphone 13').click();
 
 
     })
