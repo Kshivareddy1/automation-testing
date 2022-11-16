@@ -1,0 +1,8 @@
+{
+    "name": "Jyothi Prasad",
+    "email": "abcd@gmail.com",
+    "password": "abcd@1234",
+    "gender": "Male",
+    "product": ["iphone X","Blackberry","Nokia Edge"],
+    "deliveryLocation": "India"
+}

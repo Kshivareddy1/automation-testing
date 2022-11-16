@@ -1,24 +1,48 @@
 class ProtoCommerce {
 
 
-    userNameInput() {
+    NameInput() {
 
-        return 'input[name="username"]'
+        return cy.get(':nth-child(1) > .form-control')
+    }
+
+    emailInput() {
+
+        return cy.get(':nth-child(2) > .form-control')
     }
 
     password() {
 
-        return 'input[type="password"]'
+        return cy.get('#exampleInputPassword1')
     }
 
-    loginBtn() {
+    checkBox() {
 
-        return 'button[type="submit"]'
+        return cy.get('#exampleCheck1')
     }
+    dropDown() {
 
-    loginErrorMsg() {
+        return cy.get('#exampleFormControlSelect1')
+    }
+    radioBtn() {
 
-        return 'invalid crediantials`'
+        return cy.get('#inlineRadio2')
+    }
+    dropDown() {
+
+        return cy.get('#exampleFormControlSelect1')
+    }
+    dateOfBirth() {
+
+        return cy.get(':nth-child(8) > .form-control')
+    }
+    submitBtn() {
+
+        return cy.get('input[class="btn btn-success"]')
+    }
+    successMsg() {
+
+        return cy.get('div[class="alert alert-success alert-dismissible"]')
     }
 
 }
